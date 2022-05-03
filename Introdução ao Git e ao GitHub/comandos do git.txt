@@ -1,0 +1,21 @@
+cd - abre uma pasta
+mkdir - cria uma pasta
+ls - lista os arquivos na pasta
+ks -a - lista arquivos ocultos na pasta
+cd .. - volta uma pasta
+cntrl + l - limpa o terminal
+mv nome do arquivo ./novo diretorio/ - mome um arquivo para outro diretorio
+
+git init - cria um repositorio na pasta local
+git add nomeArquivo - adicionar commit
+ git add * - adiciona todos os arquivos da pasta para commit
+ git . - muda o diretorio para commit
+git commit -m "nome do commit" - nomear/atualizar commit
+git status - mostra o status dos commits
+echo > nome do arquivo - cria um arquivo
+
+git remote add origin link do git hub - adiciona todo o repositorio para o github
+git push origin master - manda os arquivos para o github
+git pull origin master - puxa o conteudo do github / serve para resolver conflito
+git clone url do projeto - clonar um projeto do github
+git remote -v - mostra a origin dos repositorios
